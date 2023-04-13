@@ -5,3 +5,10 @@ C:\GithubRepos\FODDummy\DummyConsole\DummyConsole\obj\Debug\DummyConsole.csproj.
 C:\GithubRepos\FODDummy\DummyConsole\DummyConsole\obj\Debug\DummyConsole.csproj.CoreCompileInputs.cache
 C:\GithubRepos\FODDummy\DummyConsole\DummyConsole\obj\Debug\DummyConsole.exe
 C:\GithubRepos\FODDummy\DummyConsole\DummyConsole\obj\Debug\DummyConsole.pdb
+C:\GithubRepos\FODDummy\DummyConsole\bin\Debug\DummyConsole.exe.config
+C:\GithubRepos\FODDummy\DummyConsole\bin\Debug\DummyConsole.exe
+C:\GithubRepos\FODDummy\DummyConsole\bin\Debug\DummyConsole.pdb
+C:\GithubRepos\FODDummy\DummyConsole\obj\Debug\DummyConsole.csproj.AssemblyReference.cache
+C:\GithubRepos\FODDummy\DummyConsole\obj\Debug\DummyConsole.csproj.CoreCompileInputs.cache
+C:\GithubRepos\FODDummy\DummyConsole\obj\Debug\DummyConsole.exe
+C:\GithubRepos\FODDummy\DummyConsole\obj\Debug\DummyConsole.pdb
